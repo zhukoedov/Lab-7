@@ -40,7 +40,7 @@ def holidayapi():
         pass
 
 if __name__ == "__main__":
-    # openworldmap()
-    # print("########")
+    openworldmap()
+    print("#### Part 2 ####")
     holidayapi()
     
